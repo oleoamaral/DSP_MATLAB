@@ -1,5 +1,7 @@
 # Digital Modulations in Matlab
 
+Models for simulation of digital modulation and demodulation techniques using MATLAB.
+
 ### Books 
 
 - [Digital Modulations using Matlab](https://www.amazon.com/-/pt/dp/B0735L33GQ?ref_=ast_author_mpb)
